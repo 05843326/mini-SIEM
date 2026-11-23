@@ -24,4 +24,4 @@ services:
       POSTGRES_USER: mateusz
       POSTGRES_PASSWORD: mateusz
     ports:
-      - "5433:5432"
+      - "5434:5432"
